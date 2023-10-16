@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\３－２\네트워크 프로그래밍\실습 프로젝트\Server\Debug\Server.exe
+C:\Users\Owner\Desktop\３－２\네트워크 프로그래밍\prac\Server\Debug\Server.exe
